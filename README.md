@@ -1,1 +1,1 @@
-# Gobang-by-C-
+# 五子棋 by C#
